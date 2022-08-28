@@ -6,7 +6,7 @@ Some Description!
 
 Watch tutorial on Youtube
 
-##Local Development
+## Local Development
 
 1. open index.html in your browser.
    wtf is going on?
